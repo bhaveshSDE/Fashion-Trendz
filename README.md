@@ -23,3 +23,7 @@ https://yellow-stone-09c653e10.1.azurestaticapps.net/
 
 #Azure Portal
 ![Screenshot (30)](https://user-images.githubusercontent.com/108925825/179483616-dcffa390-39cd-4652-83ad-beedf4652f4a.png)
+
+I have used Static Web App services from Microsoft Azure.
+
+# Demo Link
